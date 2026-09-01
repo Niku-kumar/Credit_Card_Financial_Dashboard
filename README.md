@@ -10,11 +10,11 @@ The project transforms raw CSV data into a MySQL database and connects it with P
 
 ### 💳 Credit Card Transaction Dashboard
 
-📄 [View Transaction Dashboard](./Credit%20Card%20Financial%20Dashboard-Transaction.pdf)
+📄 [View Transaction Dashboard](./Credit%20Card%20Financial%20Dashboard%20-%20Transaction.pdf)
 
 ### 👥 Credit Card Customer Dashboard
 
-📄 [View Customer Dashboard](./Credit%20Card%20Financial%20Dashboard-Customer.pdf)
+📄 [View Customer Dashboard](./Credit%20Card%20Financial%20Dashboard%20-%20Customer.pdf)
 
 ---
 
